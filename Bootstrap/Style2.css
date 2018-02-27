@@ -2,12 +2,22 @@
 }
 
 
-.col-8 main {
-    height: 150px;
+div#main.col-8 {
+    height: 50px;
     background-color: aquamarine;
 }
 
-.col-4 main {
-    height: 150px;
+div#main.col-4 {
+    height: 50px;
     background-color: chocolate;
+}
+
+div#second.col-2 {
+    height: 50px;
+    background-color: palevioletred;
+}
+
+div#second.col-6 {
+    height: 50px;
+    background-color: palegreen;
 }
