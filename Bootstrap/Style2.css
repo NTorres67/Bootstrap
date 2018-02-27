@@ -1,0 +1,13 @@
+﻿body {
+}
+
+
+.col-8 main {
+    height: 150px;
+    background-color: aquamarine;
+}
+
+.col-4 main {
+    height: 150px;
+    background-color: chocolate;
+}
